@@ -1,0 +1,7 @@
+C:\Users\sevde\source\repos\CSharpEgitimKampi\05_LoopWithStarts\bin\Debug\05_LoopWithStarts.exe.config
+C:\Users\sevde\source\repos\CSharpEgitimKampi\05_LoopWithStarts\bin\Debug\05_LoopWithStarts.exe
+C:\Users\sevde\source\repos\CSharpEgitimKampi\05_LoopWithStarts\bin\Debug\05_LoopWithStarts.pdb
+C:\Users\sevde\source\repos\CSharpEgitimKampi\05_LoopWithStarts\obj\Debug\05_LoopWithStarts.csproj.AssemblyReference.cache
+C:\Users\sevde\source\repos\CSharpEgitimKampi\05_LoopWithStarts\obj\Debug\05_LoopWithStarts.csproj.CoreCompileInputs.cache
+C:\Users\sevde\source\repos\CSharpEgitimKampi\05_LoopWithStarts\obj\Debug\05_LoopWithStarts.exe
+C:\Users\sevde\source\repos\CSharpEgitimKampi\05_LoopWithStarts\obj\Debug\05_LoopWithStarts.pdb
